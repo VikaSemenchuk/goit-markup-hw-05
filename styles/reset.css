@@ -54,6 +54,8 @@ img {
 
   color: var(--active-btn-color);
   background-color: var(--active-btn-background-color);
+
+  transition: background-color 250ms linear;
 }
 .section-title {
   margin-bottom: 50px;
