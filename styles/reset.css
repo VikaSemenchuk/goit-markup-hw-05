@@ -45,17 +45,9 @@ img {
 .btn:hover,
 .btn:focus,
 .btn:active {
-  text-align: center;
-
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.62;
-  letter-spacing: 0.03em;
 
   color: var(--active-btn-color);
   background-color: var(--active-btn-background-color);
-
-  transition: background-color 250ms linear;
 }
 .section-title {
   margin-bottom: 50px;
